@@ -1,0 +1,22 @@
+{
+  "name": "react-native-animatable-flatlist-example",
+  "displayName": "ReanimatedFlatlist Example",
+  "expo": {
+    "name": "react-native-animatable-flatlist-example",
+    "slug": "react-native-animatable-flatlist-example",
+    "description": "Example app for react-native-animatable-flatlist",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
