@@ -1,6 +1,6 @@
 {
   "name": "react-native-animatable-flatlist",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ready to go animatable flatlist based on reanimated 2",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
