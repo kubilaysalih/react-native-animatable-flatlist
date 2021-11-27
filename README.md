@@ -65,7 +65,9 @@ export default MyCustomList = () => {
 
 ## Example
 
---
+Expo Snack
+
+- https://snack.expo.dev/@kubilaysali/react-native-animatable-flatlist
 
 ## TODO
 - [ ] Create hook for scroll handler to expose internal values

@@ -50,7 +50,7 @@ export default () => {
 
   return (
     <View style={styles.container}>
-      <FlatList<typeof items[0]>
+      <FlatList
         style={styles.flatList}
         data={items}
         renderItem={renderItem}

@@ -10,8 +10,6 @@ import { generateDummy } from '../dummy';
 
 const items = generateDummy(40, true);
 
-console.warn(items);
-
 const Card = (props: any) => {
   const { item, contentOffset, index } = useAnimatedValues();
 
