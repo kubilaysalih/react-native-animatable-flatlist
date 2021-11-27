@@ -70,9 +70,9 @@ Expo Snack
 
 - https://snack.expo.dev/@kubilaysali/react-native-animatable-flatlist
 
-<img src="https://imgur.com/Ey0OmHW.gif"/>
-<img src="https://imgur.com/jCbvi7y.gif"/>
-<img src="https://imgur.com/7P0FkLW.gif"/>
+![react-native-animatable-flatlist](https://imgur.com/Ey0OmHW.gif)
+![react-native-animatable-flatlist](https://imgur.com/jCbvi7y.gif)
+![react-native-animatable-flatlist](https://imgur.com/7P0FkLW.gif)
 
 ## TODO
 - [ ] Create hook for scroll handler to expose internal values
