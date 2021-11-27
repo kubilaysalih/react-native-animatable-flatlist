@@ -2,6 +2,7 @@
 
 <p align="center">
   <p align="center">ready to go animatable flatlist based on reanimated 2</p>
+  <img src="https://imgur.com/ErbDmpL.gif" />
 </p>
 
 
